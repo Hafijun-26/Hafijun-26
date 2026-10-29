@@ -9,53 +9,37 @@ My goal is to build reliable, user-friendly applications using Java Full Stack t
 ---
 🛠️ Technical Skills
 
-💻 Programming Languages
+Programming Languages
 
-"Java" (https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-🧠 Core Concepts & Computer Science
+Core Concepts & DSA
 
-"OOP" (https://img.shields.io/badge/OOP-2C3E50?style=for-the-badge)
-"Data Structures" (https://img.shields.io/badge/Data_Structures-34495E?style=for-the-badge)
-"Algorithms" (https://img.shields.io/badge/Algorithms-6C3483?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-2C3E50?style=for-the-badge) 
+![Data Structures](https://img.shields.io/badge/Data_Structures-34495E?style=for-the-badge) 
+![Algorithms](https://img.shields.io/badge/Algorithms-6C3483?style=for-the-badge)
 
-🌐 Frontend Development
+Frontend Development
 
-"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-"React" (https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-"Vite" (https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-⚙️ Backend Development
+Database
 
-"Java" (https://img.shields.io/badge/Java_Backend-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-"JDBC" (https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge)
-"Servlets" (https://img.shields.io/badge/Servlets-2C3E50?style=for-the-badge)
-"Spring Boot" (https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-"Hibernate" (https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-"REST API" (https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-🗄️ Database
+Tools
 
-"SQL" (https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-"MySQL" (https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-"Database Design" (https://img.shields.io/badge/Database_Design-34495E?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-🔧 Tools & Development Environment
-
-"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-"VS Code" (https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-"IntelliJ IDEA" (https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-
-📚 Currently Learning
-
-- Advanced Core Java and Collections Framework
-- Data Structures and Algorithms
-- SQL Joins and Database Concepts
-- Java Backend Development
-
+---
 🚀 Projects
 
 1. ShopSphere — E-commerce Frontend
