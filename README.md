@@ -1,16 +1,92 @@
-## Hi there 👋
+Hi, I'm Hafijun 👋
 
-<!--
-**Hafijun-26/Hafijun-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Java Full Stack Developer
 
-Here are some ideas to get you started:
+I am passionate about software development and building practical applications. I enjoy learning new technologies, improving my programming skills, and solving problems through code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My goal is to build reliable, user-friendly applications using Java Full Stack technologies.
+
+---
+
+🛠️ Technical Skills
+
+Programming Language
+
+- Java
+
+Frontend Development
+
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Vite
+
+Database
+
+- SQL
+
+Tools
+
+- Git
+- GitHub
+- Visual Studio Code
+
+Java Full Stack Technologies
+
+- JDBC
+- Servlets and JSP
+- Spring Framework
+- Spring Boot
+- Hibernate
+- REST APIs
+
+---
+
+🚀 Projects
+
+1. ShopSphere — E-commerce Frontend
+
+A responsive e-commerce application built with React.
+
+Technologies: React, JavaScript, CSS, Vite
+
+Features:
+
+- Product listing and sorting
+- Shopping cart management
+- Cart persistence using Local Storage
+- Responsive user interface
+- Demo checkout flow
+
+2. TaskFlow — To-Do List
+
+A task management application built to practice frontend development fundamentals.
+
+Technologies: HTML, CSS, JavaScript
+
+3. Calculator
+
+A calculator application built to practice JavaScript logic and interface design.
+
+Technologies: HTML, CSS, JavaScript
+
+---
+
+🎯 Career Objective
+
+To grow as a Java Full Stack Developer by strengthening my programming fundamentals, developing practical projects, and continuously improving my software development skills.
+
+---
+
+📚 Currently Focusing On
+
+- Core Java and Collections Framework
+- Object-Oriented Programming
+- SQL and Database Concepts
+- Data Structures and Algorithms
+- Java Full Stack Development
+
+---
+
+Thanks for visiting my profile! 😊
